@@ -1,0 +1,11 @@
+capital_inicial = float(input("Ingrese el capital depositado: "))
+tasa_interes =float(input("Ingrese la tasa de interés anual (%): "))
+semana = int(input("Ingrese la duración del depositoen semana: "))
+
+dia = semana * 7
+tasa_diaria = tasa_interes / (100 * 365)
+
+capital_final = capital_inicial * (1 + tasa_diaria) ** días
+
+print(f"El capital final después de [semanas] semanas es:
+[capital_final:.2f]")
