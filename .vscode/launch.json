@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio410",
+            "request": "launch",
+            "mainClass": "clase7.Ejercicio410",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "ParImpar",
+            "request": "launch",
+            "mainClass": "ParImpar",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Convertidor",
+            "request": "launch",
+            "mainClass": "Convertidor",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Dulcealgoritmo",
+            "request": "launch",
+            "mainClass": "Dulcealgoritmo",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejecutar",
+            "request": "launch",
+            "mainClass": "Ejecutar",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4pnto1C",
+            "request": "launch",
+            "mainClass": "Ejercicio4pnto1C",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4punto1A",
+            "request": "launch",
+            "mainClass": "Ejercicio4punto1A",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4punto1B",
+            "request": "launch",
+            "mainClass": "Ejercicio4punto1B",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4punto1D",
+            "request": "launch",
+            "mainClass": "Ejercicio4punto1D",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4punto2",
+            "request": "launch",
+            "mainClass": "Ejercicio4punto2",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4puntoE",
+            "request": "launch",
+            "mainClass": "Ejercicio4puntoE",
+            "projectName": "programacion-uniajc_796064d3"
+        }
+    ]
+}

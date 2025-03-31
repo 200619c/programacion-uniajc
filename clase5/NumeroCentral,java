@@ -1,0 +1,20 @@
+import java.util.Scanner;
+import java.util.Arrays;
+
+public class NumeroCentral {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int[] numeros = new int[3];
+
+        System.out.print("Ingresa el primer numero: ");
+        numeros[0] = sc.nextInt();
+
+        System.out.print("Ingresa el segundo numero: ");
+        numeros[1] = sc.nextInt();
+
+        System.out.print("Ingresa el tercer numero: "),
+        Arrays.sort(numeros);
+
+        System.out.print("El numero central es: " + numeros[1]);
+    }
+}

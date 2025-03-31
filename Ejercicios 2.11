@@ -1,8 +1,0 @@
-inpot math
-radio =float(input("Ingrese el radio del círculo: "))
-
-longitud = 2 * math.pi * radio 
-area = math.pi * radio ** 2
-
-print (f"La longitud de la circunferencia es: [longitud]")
-print (f"El area del círculo es [area]")

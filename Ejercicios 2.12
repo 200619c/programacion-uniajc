@@ -1,5 +1,0 @@
-tarifa = float(input("Ingresa la tarifa horaria del trabajo: "))
-horas_diarias = float(input("Ingresa el número de horas trabajadas por dia: "))
-
-salario _semanal = tarifa * horas_diarias * 7
-print (f"El salario semanal del trabajo es: [salario_semanal] "))
