@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio4punto11",
+            "request": "launch",
+            "mainClass": "Ejercicio4punto11",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio4punto10",
             "request": "launch",
             "mainClass": "Ejercicio4punto10",
