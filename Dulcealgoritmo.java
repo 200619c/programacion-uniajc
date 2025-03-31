@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DulceAlgoritmo {
+public class Dulcealgoritmo {
 
     public static void main(String[] args) {
         // Definir constantes
