@@ -31,7 +31,8 @@
 
 import java.util.Scanner;
 
-public class Ejercicio410 {
+public class Ejercicio4punto10 {
+
     public static void main(String[] args) {
 
         Scanner leer = new Scanner(System.in);
@@ -61,8 +62,6 @@ public class Ejercicio410 {
                 }
             }
         }
-
         leer.close();
-
     }
 }

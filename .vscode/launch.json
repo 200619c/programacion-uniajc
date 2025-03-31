@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio4punto10",
+            "request": "launch",
+            "mainClass": "Ejercicio4punto10",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio410",
+            "request": "launch",
+            "mainClass": "Ejercicio410",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio410",
             "request": "launch",
             "mainClass": "clase7.Ejercicio410",
