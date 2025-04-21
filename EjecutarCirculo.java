@@ -6,6 +6,6 @@ public class EjecutarCirculo {
 
         System.out.println("perimetro: " + objCirculo1.calcularPerimetro());
 
-        System.out.println("area: "+ objCirc )
+        System.out.println("area: "+ objCirculo1.calcularAre());
     }
 }
