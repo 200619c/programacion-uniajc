@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EjecutarContadorDigitoPares",
+            "request": "launch",
+            "mainClass": "EjecutarContadorDigitoPares",
+            "projectName": "programacion-uniajc_796064d3"
+        },
+        {
+            "type": "java",
             "name": "EjecutarCajeroElectronico",
             "request": "launch",
             "mainClass": "EjecutarCajeroElectronico",
