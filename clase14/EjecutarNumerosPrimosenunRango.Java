@@ -25,7 +25,7 @@ public class VerificadorPrimos {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Inicio del rango: ");
+        SystemSystem.out.print("Inicio del rango: ");
         int inicio = sc.nextInt();
         System.out.print("Fin del rango: ");
         int fin = sc.nextInt();
